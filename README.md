@@ -14,8 +14,6 @@ A modern task management web application built using HTML, CSS, and JavaScript.
 - CSS
 - JavaScript
 
-## 🌐 Live Demo
-https://jain-123.vercel.app/
 
 ## 📂 Project Structure
 - index.html
